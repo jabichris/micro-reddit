@@ -20,13 +20,19 @@ td {
 .new_user_form,
 .notice,
 .edit_user_title,
-.edit_user_form {
+.edit_user_form,
+.new_post_title,
+.new_post_form,
+.edit_post_form,
+.edit_post_title {
   margin-left: 42%;
 }
 
-.all_users {
+.all_users,
+.show_post {
   margin-left: 30%;
 }
+
 pre {
   background-color: #eee;
   padding: 10px;
